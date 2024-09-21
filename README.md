@@ -63,15 +63,5 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/1b6dd619-e6be-4922-b7cb-755617a4d638)
 
 
-
-
-
-### RESULT:
-Thus we have created the python code for the time series analysis and decomposition.
-
-
-
-
-
 ### RESULT:
 Thus the python code for the time series analysis and decomposition is created and executed successfully.
